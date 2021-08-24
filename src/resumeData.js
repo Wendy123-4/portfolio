@@ -96,13 +96,13 @@ let resumeData = {
         "skillname":"Javascript"
       },
       {
-        "skillname":" Mobile Development with Flutter and Firebase"
+        "skillname":" Mobile Development"
       },
       {
-        "skillname":" UX Design(Figma, Invision Studio)"
+        "skillname":" UX Design"
       },
       {
-        "skillname":"Microsoft Excel Proficient(Pivot Table, Vlook-Ups)"
+        "skillname":"G-Suite Proficient"
       }
     ],
     "portfolio":[
