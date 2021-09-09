@@ -125,10 +125,10 @@ let resumeData = {
         "link": "https://github.com/Wendy123-4/Personal-Projects/tree/main/UX%20Design"
       },
       {
-        "name":"Technology and Society",
-        "description":"A presentation on innovation and analysing its impact on society",
+        "name":"Presentations",
+        "description":"Presentations with slides designed by me",
         "imgurl":"images/undraw_file_analysis_8k9b.png",
-        "link": "https://github.com/Wendy123-4/Personal-Projects/blob/main/Presentation%20on%20Technology%20and%20Society.pdf"
+        "link": "https://drive.google.com/drive/folders/1qtdkmTNtZi6vnOgQrSo39UNhZNXuC1g8?usp=sharing"
       }
     ],
     "testimonials":[
